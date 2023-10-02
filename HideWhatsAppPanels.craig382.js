@@ -10,6 +10,18 @@
 // ==/UserScript==
 
 // Based on Whatsapp Web Privacy Mode script by Graphen.
+
+// Use Tampermonkey to install.
+
+// Intent was to make web.whatapp.com
+// work well in a narrow window (tall or short)
+// so that it takes up less screen space.
+// I also saved a little more screen space
+// by choosing "Install WhatsApp Web..."
+// from my [Braive] browser. And then I 
+// pinned WhatsApp Web to my Manjaro Linux 
+// KDE taskbar.
+
 /* jshint esversion: 6 */
 
 (function() {
