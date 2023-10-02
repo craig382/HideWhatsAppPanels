@@ -84,17 +84,17 @@
 
     function initCss() {
       topContainer1 = document.querySelector('._1jJ70');
-      console.log("topContainer1"); console.log(topContainer1);
+      // console.log("topContainer1"); console.log(topContainer1);
       topContainer2 = document.querySelector('._2QgSC');
-      console.log("topContainer2"); console.log(topContainer2);
+      // console.log("topContainer2"); console.log(topContainer2);
       sidePanel = document.getElementsByClassName('_3RGKj')[1];
-      console.log("sidePanel"); console.log(sidePanel);
+      // console.log("sidePanel"); console.log(sidePanel);
       mainPanel = document.getElementsByClassName('_2xAQV')[1];
-      console.log("mainPanel"); console.log(mainPanel);
+      // console.log("mainPanel"); console.log(mainPanel);
       bottomPanel = document.getElementsByClassName('_1xFRo')[0];
-      console.log("bottomPanel"); console.log(bottomPanel);
+      // console.log("bottomPanel"); console.log(bottomPanel);
       popOutPanel = document.getElementsByClassName('_3RGKj')[0];
-      console.log("popOutPanel"); console.log(popOutPanel);
+      // console.log("popOutPanel"); console.log(popOutPanel);
 
       topContainer1.style.setProperty('flex-direction', 'column');
       topContainer1.style.setProperty('min-width', '400px');
